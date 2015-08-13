@@ -1,4 +1,4 @@
-(ns colorful-string.core)
+(ns colorfulstr.core)
 
 (def ANSI-ESCAPE-CODES
   {:strikethrough-off  "[29m"

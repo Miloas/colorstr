@@ -1,7 +1,7 @@
-(ns colorful-string.core-test
+(ns colorfulstr.core-test
   (:require [clojure.test :refer :all]
-            [colorful-string.core :refer :all]))
+            [colorfulstr.core :refer :all]))
 
 (deftest single-style
   (testing "Testing single-style"
-    (is (= ))))
+    (is (= 1 0 ))))

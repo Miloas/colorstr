@@ -1,3 +1,3 @@
-# Introduction to colorful_string
+# Introduction to colorfulstr
 
 TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
