@@ -57,7 +57,7 @@ A Clojure library to stylized string in console using ANSI escape code.
 ;same class will be cover
 
 -> (style "red" :blue :red)
-;Same as (syle "red" :red)
+;Same as (style "red" :red)
 
 ```
 ## License
